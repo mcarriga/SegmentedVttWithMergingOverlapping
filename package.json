@@ -1,0 +1,17 @@
+{
+  "name": "clear",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "hls-parser": "^0.13.6",
+    "node-webvtt": "^1.9.4"
+  }
+}
